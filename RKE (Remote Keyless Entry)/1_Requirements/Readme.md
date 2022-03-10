@@ -7,20 +7,21 @@
 ## Requirements:
 * High Level Requirements:
 
-|  ID  |  Description  |  Status  |
+|  ID  |  Function  |  Description  |
 | ------  | -------  |  -------  |
-|  HLR1  |  Print lock – Blue switch on - All led on at the same time  | 
-|  HLR2  |  Print unlock - Blue switch press two times - All led off at the same time  |
-|  HLR3  |  Print alarm activation/deactivation - Blue switch press three times - All led on in clockwise manner  |
-|  HLR4  |  Print approach light - Blue switch press four times- All led on in anti-clockwise manner  | 
+|  HLR1  |  Lock  |  All leds will on at the same time  | 
+|  HLR2  |  Unlock  |  All leds will off at the same time  |
+|  HLR3  |  Alarm activation/deactivation  |  All leds will blink in clockwise manner  |
+|  HLR4  |  Approach light  |  All leds will blink in anti-clockwise manner  | 
 
 * Low Level Requirements:
 
-|  ID  |  Description  |  Status  |
+|  ID  |  Description  |  Function  |
 |  ------  |  ------  |  ------  |
-|  LLR1  |    |
-|  LLR2  |    |
-|  LLR3  |    |
+|  LLR1  |  Press Blue switch once  |  Print Lock  | 
+|  LLR2  |  Press Blue switch twice  |  Print Unlock  |
+|  LLR3  |  Press Blue switch thrice  |  Activate/Deactivate Alarm  |
+
 ## SWOT Analysis:
 * Strenghts: 
 * Weakness:  
