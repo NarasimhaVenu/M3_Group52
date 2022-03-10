@@ -1,7 +1,7 @@
 # Project
 # RKE (Remote Keyless Entry)
 ## Description:
-* Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles. 
+* Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles. Remote keyless systems consist of a key fob transmitter and a receiver inside the vehicle. This radio frequency signal, or RF for short, is sent as an encrypted data stream directly to the car. 
 ## Objective:
 * To implement a RKE System to lock or unlock access automobiles.
 ## Requirements:
@@ -21,15 +21,3 @@
 |  LLR1  |  Press Blue switch once  |  Print Lock  | 
 |  LLR2  |  Press Blue switch twice  |  Print Unlock  |
 |  LLR3  |  Press Blue switch thrice  |  Activate/Deactivate Alarm  |
-
-## SWOT Analysis:
-* Strenghts: 
-* Weakness:  
-* Oppurtunities: 
-* Threats: No major threats
-## 4W's & 1H:
-* Who: 
-* What: 
-* When: 
-* Where: 
-* How: 
