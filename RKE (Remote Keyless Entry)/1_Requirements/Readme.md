@@ -1,8 +1,9 @@
 # Project
 # RKE (Remote Keyless Entry)
-## Features:
 ## Description:
+* Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles. 
 ## Objective:
+* To implement a RKE System to lock or unlock access automobiles.
 ## Requirements:
 * High Level Requirements:
 |  ID  |  Description  |
