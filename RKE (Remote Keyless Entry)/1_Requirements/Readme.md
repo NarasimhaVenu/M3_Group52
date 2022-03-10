@@ -8,9 +8,10 @@
 * High Level Requirements:
 |  ID  |  Description  |
 | ------  | ------  |
-|  HLR1  |    | 
-|  HLR2  |    |
-|  HLR3  |    |
+|  HLR1  |  Print lock – Blue switch on - All led on at the same time  | 
+|  HLR2  |  Print unlock - Blue switch press two times - All led off at the same time  |
+|  HLR3  |  Print alarm activation/deactivation - Blue switch press three times - All led on in clockwise manner  |
+|  HLR4  |  Print approach light - Blue switch press four times- All led on in anti-clockwise manner  | 
 
 * Low Level Requirements:
 |  ID  |  Description  |
