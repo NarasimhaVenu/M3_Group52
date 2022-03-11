@@ -46,3 +46,12 @@
 * When: Used when person want to use the car
 * Where: it can be used when the user is within the frequency range 
 * How: By using buttons on the remote.
+
+## Block Diagram
+![image](https://user-images.githubusercontent.com/98816218/157863332-1ef24884-a647-4754-825c-174b4cd38e96.png)
+## Flow Chart
+![image](https://user-images.githubusercontent.com/98816218/157863445-e305ef42-9e66-463d-a972-25ac120fb19a.png)
+## Functional Diagram
+![image](https://user-images.githubusercontent.com/98816218/157863526-332a7966-1d23-4402-bbe1-c0b054eb0c5c.png)
+
+
