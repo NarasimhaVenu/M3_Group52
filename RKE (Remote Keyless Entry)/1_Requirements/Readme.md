@@ -32,13 +32,13 @@
 |  LLR3  |  Press Blue switch thrice  |  Activate/Deactivate Alarm  |
 
 ## SWOT Analysis:
-* Strenghts: 
+* Strenghts: By using the buttons on the remote we can control various functions of the car.
 
-* Weakness:  
+* Weakness: Limited Range 
 
-* Oppurtunities: 
+* Oppurtunities: Can implement more features like knowing the status of the car etc 
 
-* Threats: No major threats
+* Threats: Need to always carry the Key to lock/unlock the car, if lost may lead to theft.
 
 ## 4W's & 1H:
 * Who: Can be used by anyone who owns an automobile
