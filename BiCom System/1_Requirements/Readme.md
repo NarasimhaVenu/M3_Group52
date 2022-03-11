@@ -19,14 +19,19 @@
 |  LLR1  |    |
 |  LLR2  |    |
 |  LLR3  |    |
+
 ## SWOT Analysis:
 * Strenghts: 
+
 * Weakness:  
+
 * Oppurtunities: 
+
 * Threats: No major threats
+
 ## 4W's & 1H:
-* Who: 
-* What: 
-* When: 
-* Where: 
-* How: 
+* Who: Can be used by anyone who owns an automobile
+* What: This system can be used in Locking or unlocking the cars
+* When: Used when person want to use the car
+* Where: it can be used when the user is within the frequency range 
+* How: By using buttons on the remote.
