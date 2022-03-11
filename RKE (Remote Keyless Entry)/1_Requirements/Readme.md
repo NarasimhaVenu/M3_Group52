@@ -30,3 +30,19 @@
 |  LLR1  |  Press Blue switch once  |  Print Lock  | 
 |  LLR2  |  Press Blue switch twice  |  Print Unlock  |
 |  LLR3  |  Press Blue switch thrice  |  Activate/Deactivate Alarm  |
+
+## SWOT Analysis:
+* Strenghts: 
+
+* Weakness:  
+
+* Oppurtunities: 
+
+* Threats: No major threats
+
+## 4W's & 1H:
+* Who: Can be used by anyone who owns an automobile
+* What: This system can be used in Locking or unlocking the cars
+* When: Used when person want to use the car
+* Where: it can be used when the user is within the frequency range 
+* How: By using buttons on the remote.
