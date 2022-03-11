@@ -1,6 +1,6 @@
 # M3_Group52
 # Project 1-RKE (Remote Keyless Entry)
-# Proejct 2-BiCom System
+# Project 2-BiCom System
 
 ## Group Members
 
