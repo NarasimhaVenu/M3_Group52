@@ -11,10 +11,10 @@
 
 |  Folder  |  Done By  |
 | ---------| ----------|
-|  1_Requirements  |  Venu  |
+|  1_Requirements  |  Venu,Nithish  |
 |  2_Architecture  |  Shyam & Nitish  |
-|  3_Implementation  |  Kartik ,Venu ,Nitish  |
-|  4_TestPlanandOutput  |  Kartik ,Venu  |
+|  3_Implementation  |  Kartik ,Venu  |
+|  4_TestPlanandOutput  |  Kartik ,Venu, Nithish  |
 |  5_Report  |  Shyam & Nitish  |
 |  6_ImagesandOthers  |  Venu & Kartik  |
 
