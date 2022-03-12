@@ -32,6 +32,18 @@
 |  LLR2  |  Press Blue switch twice  |  Print Unlock  |
 |  LLR3  |  Press Blue switch thrice  |  Activate/Deactivate Alarm  |
 
+# Behavioral Diagram
+
+## Highlevel
+![hldiagram](https://user-images.githubusercontent.com/99128901/158007360-4aa3977a-5c4f-4138-b96d-48ded774db2f.png)
+![hlstructural](https://user-images.githubusercontent.com/99128901/158007362-b73d0e25-a9f3-45e7-97de-b6d1e4d0c8b8.jpeg)
+
+
+## Low level Structural Diagram
+![llstructural](https://user-images.githubusercontent.com/99128901/158007390-8143f73e-5423-4422-ad61-db9293ddab49.jpeg)
+
+
+
 ## SWOT Analysis:
 * Strenghts: By using the buttons on the remote we can control various functions of the car.
 
@@ -40,7 +52,8 @@
 * Oppurtunities: Can implement more features like knowing the status of the car etc 
 
 * Threats: Need to always carry the Key to lock/unlock the car, if lost may lead to theft.
-* ![image](https://user-images.githubusercontent.com/98816218/157823617-7ed030e3-dc55-4df5-a3c1-51b0cf67985a.png)
+![SWOT_BICOM](https://user-images.githubusercontent.com/99128901/158007319-494aa500-aecb-4e55-ae50-c09faee9eaf8.png)
+
 
 ## 4W's & 1H:
 * Who: Can be used by anyone who owns an automobile
@@ -48,6 +61,7 @@
 * When: Used when person want to use the car
 * Where: it can be used when the user is within the frequency range 
 * How: By using buttons on the remote.
+![Bicom5W1H](https://user-images.githubusercontent.com/99128901/158007336-b1972218-2ae2-4cd3-8a37-032189bdf4ac.jpeg)
 
 # TEST PLAN
 
@@ -71,3 +85,4 @@
 
 # Output
 ![1click](https://user-images.githubusercontent.com/98834933/158001512-83391399-a6f4-484e-bfef-f7039a45d486.JPG)
+
