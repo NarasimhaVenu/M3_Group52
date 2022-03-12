@@ -13,4 +13,13 @@
 |  LL01  |  All Leds will on at the same time  |  Press the blue button once  |  Print Lock  |  Implemented  |
 |  LL02  |  All Leds will off at the same time  |  Press the blue button twice  |  Print UnLock  |  Implemented  |
 |  LL31  |  All Leds will blink in Clockwise manner  |  Press the blue button thrice  |  Print Activation/Deactivation  |  Implemented  |
+
+
+
+
 # Output
+
+## Simulation Video
+
+
+https://user-images.githubusercontent.com/98834933/158001210-c5c1c998-50e3-4d84-b04d-13793468cc11.mp4
