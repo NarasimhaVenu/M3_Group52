@@ -81,6 +81,15 @@
 
 # Output
 
+
+
+## Output Image
+
+
+![1click](https://user-images.githubusercontent.com/98834933/158001512-83391399-a6f4-484e-bfef-f7039a45d486.JPG)
+
+
+
 ## Simulation Video
 
 https://user-images.githubusercontent.com/98834933/158001210-c5c1c998-50e3-4d84-b04d-13793468cc11.mp4
