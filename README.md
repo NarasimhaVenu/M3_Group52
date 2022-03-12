@@ -2,14 +2,29 @@
 # Project 1-RKE (Remote Keyless Entry)
 # Project 2-BiCom System
 
+
+
+# Work Done
+
+
+|  Folder  |  Done By  |
+| ---------| ----------|
+|  1_Requirements  |  Venu  |
+|  2_Architecture  |  Shyam & Nitish  |
+|  3_Implementation  |  Kartik ,Venu ,Nitish  |
+|  4_TestPlanandOutput  |  Kartik ,Venu  |
+|  5_Report  |  Shyam & Nitish  |
+|  6_ImagesandOthers  |  Venu & Kartik  |
+
+
 ## Group Members
 
-|  PS No.  |  Name  |  Workdone  |
-| ------  | -------  |  -------  |
-|  99007791  |  Venu  |    |
-|  99007792  |  Shyam  |    |
-|  99007793  |  Nithish  |    |
-|  99007794  |  Kartik  |    |
+|  PS No.  |  Name  |
+| ------  | -------  |
+|  99007791  |  Venu  |
+|  99007792  |  Shyam  |
+|  99007793  |  Nithish  |
+|  99007794  |  Kartik  |
 
 ## Folder Structure
 
